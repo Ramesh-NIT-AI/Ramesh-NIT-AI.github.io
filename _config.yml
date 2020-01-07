@@ -85,7 +85,7 @@ analytics:
 # Site Author
 author:
   name             : "Ramesh Kadimilla"
-  avatar           : "C:\Users\19721\Desktop\IMG20191130132703.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "Desktop\IMG20191130132703.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Data Science Portfolio"
   location         : "HYDERABAD , TELANGANA - PIN CODE: 50049"
   email            :
